@@ -2,5 +2,5 @@ db:
   connection-timeout: 20000
   maximum-pool-size: 5
   password: production
-  url: jdbc:postgresql://localhost:5432/companies
+  url: jdbc:postgresql://localhost:5433/companies
   username: production
