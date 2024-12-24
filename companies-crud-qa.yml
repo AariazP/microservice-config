@@ -1,0 +1,6 @@
+db:
+  connection-timeout: 20000
+  maximum-pool-size: 5
+  password: qa-branch
+  url: jdbc:postgresql://localhost:5434/companies
+  username: qa-branch
