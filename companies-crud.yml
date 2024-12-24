@@ -1,6 +1,6 @@
 db:
   connection-timeout: 20000
   maximum-pool-size: 5
-  password: arias
+  password: develop
   url: jdbc:postgresql://localhost:5432/companies
-  username: arias
+  username: develop
