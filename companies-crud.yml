@@ -2,5 +2,7 @@ db:
   connection-timeout: 20000
   maximum-pool-size: 5
   password: develop
-  url: jdbc:postgresql://db:5432/companies
+  host: db
+  port: 5432
+  name: companies
   username: develop
